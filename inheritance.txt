@@ -1,0 +1,2 @@
+One use of inheritance in coding is to be able to reuse different functions and elements of a code without having to redefine/rewrite it.
+The second use of inheritance is to be able to use ploymorphism which allows the code to be more dynamic than static.

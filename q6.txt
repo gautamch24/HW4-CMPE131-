@@ -1,0 +1,2 @@
+1: After the function call, it does not not change as a=32. It stays the same because A is called in main and not eh actual function so a is stil 32. 
+2: After the function call, it does cahnge to ['32':1]. This is because it is referencing ['32'] in the function so it adds 1 to the set.
